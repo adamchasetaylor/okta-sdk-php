@@ -1,4 +1,4 @@
-# Okta PHP SDK
+# Okta PHP SDK (for use with Laravel 8)
 
 [![Build Status](https://api.travis-ci.org/okta/okta-sdk-php.svg?branch=master,develop)](https://travis-ci.org/okta/okta-sdk-php)
 [![Codecov](https://img.shields.io/codecov/c/github/okta/okta-sdk-php.svg)](https://codecov.io/github/okta/okta-sdk-php)
